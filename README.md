@@ -16,7 +16,6 @@ Hi, I build small, polished tools for **Apple Silicon Macs**.
 ## 📊 Stats
 <div>
   <img align="left" height="150" src="https://streak-stats.demolab.com/?user=SdfteX&theme=dark&hide_border=true&background=161B22" alt="SdfteX streak" />
-  <img align="left" height="150" src="https://github-readme-stats.vercel.app/api/top-langs?username=SdfteX&show_icons=true&locale=en&layout=compact&hide_border=true&bg_color=161B22" alt="SdfteX top languages" />
 </div>
 <br clear="left"/>
 
